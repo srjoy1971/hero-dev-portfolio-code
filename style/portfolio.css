@@ -246,7 +246,7 @@ footer .footer-container{
     margin-right: 24px;
 }
 
-.footer-container form input[type="text"] ,.footer-container form  {
+.footer-container form input[type="text"] , .footer-container form  textarea {
     width: 461px;
     padding: 18px 31px;
     margin-bottom: 24px;
